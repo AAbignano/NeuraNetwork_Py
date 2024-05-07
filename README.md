@@ -11,7 +11,5 @@ The initial model weights are sampled from a standard normal distribution and ar
 
 ## Requirements to run
 This project was built with Python 3.11 along with the following packages:  
-numpy-1.26.4
+numpy-1.26.4  
 scikit-learn-1.4.1.post1
-
-
